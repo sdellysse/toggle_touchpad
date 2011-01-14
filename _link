@@ -1,0 +1,2 @@
+ln -sf `pwd`/toggle_touchpad ~/bin/toggle_touchpad
+
